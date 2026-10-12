@@ -9,7 +9,7 @@ Simulador de banco feito em Python, executado direto no terminal. O projeto foi 
 - Sacar dinheiro
 - Consultar saldo
 
-## 🧠 O que pratiquei
+## 🧠 O que foi praticado
 
 - Funções com parâmetros e retorno
 - Laços de repetição (`while` e `for ... else`)
