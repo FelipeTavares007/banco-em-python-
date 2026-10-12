@@ -1,20 +1,27 @@
 # 🏦 Banco Feltav
 
-Simulador simples de banco feito em Python, direto no terminal.
+Simulador de banco feito em Python, executado direto no terminal. O projeto foi criado para **treinar lógica de programação** e praticar outros conceitos da linguagem.
 
-## O que faz
+## ✨ Funcionalidades
 
-- Login com nome e senha (3 tentativas)
+- Login com nome e senha (até 3 tentativas)
 - Depositar dinheiro
 - Sacar dinheiro
-- Ver saldo
+- Consultar saldo
 
-## Sobre o projeto
+## 🧠 O que pratiquei
 
-Este projeto foi criado para treinar lógica de programação e outros conceitos, como funções, laços de repetição, condicionais e `match/case`.
+- Funções com parâmetros e retorno
+- Laços de repetição (`while` e `for ... else`)
+- Condicionais e `match/case`
+- Variáveis globais
+- Conversão de tipos com `int()` e `float()`
+- Entrada e saída de dados no terminal
 
-## Como executar
+## 🚧 Melhorias futuras
 
-```bash
-python main.py
-```
+- Impedir saque maior que o saldo
+- Tratar entradas inválidas (letras no lugar de números)
+- Encerrar o programa após 3 senhas erradas
+- Guardar o saldo em arquivo ou banco de dados
+- Ter vários usuários e histórico de transações
